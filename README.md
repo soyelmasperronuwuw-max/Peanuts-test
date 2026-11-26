@@ -32,7 +32,7 @@ too.
 
 <!-- PEANUTS begin: the Supported games table, written by peanuts/scripts/games_catalog.py from peanuts/games.tsv, peanuts/release-titles.txt and the profiles. Edit peanuts/games.tsv, not this table -->
 
-Peanuts Native 0.1.8 includes 76 games. The Companion column shows whether a game appears in the Eden Duo Companions catalog, and the Contributor column the community members who brought a game to Peanuts Native. Updates are shown as version numbers or numeric update IDs.
+Peanuts Native 0.1.8 includes 77 games. The Companion column shows whether a game appears in the Eden Duo Companions catalog, and the Contributor column the community members who brought a game to Peanuts Native. Updates are shown as version numbers or numeric update IDs.
 
 | Game | Title ID | Game update | Companion | Contributor |
 |---|---|---|---|---|
@@ -52,7 +52,7 @@ Peanuts Native 0.1.8 includes 76 games. The Companion column shows whether a gam
 | Pokémon Sword | `0100ABF008968000` | 1.3.2 | Yes |  |
 | Pokémon Shield | `01008DB008C2C000` | 1.3.2 | Yes |  |
 | The Legend of Zelda: Breath of the Wild | `01007EF00011E000` | 1.6.0, 1.9.0 | Yes |  |
-| The Legend of Zelda: Tears of the Kingdom | `0100F2C0115B6000` | 1.4.3 | No |  |
+| The Legend of Zelda: Tears of the Kingdom | `0100F2C0115B6000` | 1.4.3 | Yes |  |
 | FINAL FANTASY RESONANCE | `0100606026F12000` | 1.0.1 | Yes |  |
 | The Legend of Zelda: Skyward Sword HD | `01002DA013484000` | 1.0.1 | Yes |  |
 | Pokémon Legends: Arceus | `01001F5010DFA000` | 1.1.1 | No |  |
@@ -112,6 +112,7 @@ Peanuts Native 0.1.8 includes 76 games. The Companion column shows whether a gam
 | Minecraft Dungeons II | `0100A7C01B792000` | 1.1.3.0 | No | ⭐<br><a href="https://github.com/intermission88"><img src="https://img.shields.io/badge/intermission88-181717?style=flat-square&logo=github&logoColor=white" style="vertical-align: middle;" alt="intermission88"></a> |
 | The Witcher 3: Wild Hunt — Complete Edition | `01003D100E9C6000` | 4.04b | No |  |
 | Pokémon Mystery Dungeon: Rescue Team DX | `01003D200BAA2000` | 1.0.0 | No | ⭐<br><a href="https://github.com/shamonj03"><img src="https://img.shields.io/badge/shamonj03-181717?style=flat-square&logo=github&logoColor=white" style="vertical-align: middle;" alt="shamonj03"></a> |
+| NieR:Automata The End of YoRHa Edition | `010056B015FE8000` | 1.0.3 | No |  |
 
 <!-- PEANUTS end: the Supported games table -->
 
